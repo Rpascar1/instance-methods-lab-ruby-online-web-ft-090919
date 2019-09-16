@@ -1,4 +1,8 @@
 class Dog
-  bark = puts "Woof!"
-  sit = puts "The Dog is sitting"
-end  
+  def ark 
+    puts "Woof!"
+  end
+  def sit 
+    puts "The Dog is sitting"
+  end
+end
