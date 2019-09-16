@@ -1,6 +1,6 @@
 class Person
-@talk = "Hello World!"
+talk = puts "Hello World!"
 end
-@walk = "The person is walking."
+walk = puts"The person is walking."
 end
 end
