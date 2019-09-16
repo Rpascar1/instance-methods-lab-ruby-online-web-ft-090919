@@ -1,6 +1,5 @@
 class Person
-talk = puts "Hello World!"
-end
-walk = puts"The person is walking."
-end
+  talk = puts "Hello World!"
+  walk = puts"The person is walking."
+  end
 end
