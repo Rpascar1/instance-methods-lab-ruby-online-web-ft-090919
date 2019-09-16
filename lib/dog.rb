@@ -1,5 +1,5 @@
 class Dog
-  def ark 
+  def bark 
     puts "Woof!"
   end
   def sit 
