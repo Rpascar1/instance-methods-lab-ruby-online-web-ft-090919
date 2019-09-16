@@ -1,6 +1,5 @@
 class Dog
-  @bark = "Woof!"
-  end
-  @sit = "The Dog is sitting"
-end
-  
+  bark puts = "Woof!"
+
+  sit = puts "The Dog is sitting"
+end  
