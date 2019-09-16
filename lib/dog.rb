@@ -1,4 +1,4 @@
 class Dog
-  bark puts = "Woof!"
+  bark = puts "Woof!"
   sit = puts "The Dog is sitting"
 end  
